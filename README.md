@@ -4,6 +4,9 @@
 ## About
 The **HR Analytics Dashboard** provides insights into employee attrition, job roles, education levels, salaries, and tenure within the company. This interactive dashboard helps HR teams analyze workforce trends and make data-driven decisions.
 
+## 📸 Dashboard Preview  
+ ![Dashboard](https://github.com/Fidelia-a11y/HR-Analytics/blob/main/HR%20Dashboard.png)
+
 ---
 
 ## 🔍 Method Breakdown
@@ -51,11 +54,6 @@ The HR Analytics Dashboard successfully:
 ## 🚀 Technologies Used  
 🔹 **Power BI** – Data visualization & dashboard creation  
 🔹 **DAX (Data Analysis Expressions)** – Data modeling & calculations   
-
----
-
-## 📸 Dashboard Preview  
- ![Dashboard](https://github.com/Fidelia-a11y/HR-Analytics/blob/main/HR%20Dashboard.png)
 
 ---
 

@@ -62,4 +62,4 @@ For any inquiries or collaborations, feel free to reach out!
 
 👤 **Fidelia Arthur**  
 📧 **fideliaarthur19@gmail.com**  
-🔗 [LinkedIn Profile](linkedin.com/in/fidelia-arthur-07b959356) 
+🔗 [My LinkedIn Profile](https://www.linkedin.com/in/fidelia-arthur-07b959356) 
